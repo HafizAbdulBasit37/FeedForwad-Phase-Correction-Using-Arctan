@@ -59,9 +59,9 @@ Feed-forward phase correction is used to:
 ---
 
 ## 🔹 File Structure
-- `verilog/` → RTL modules + testbench
+- `verilog/` → RTL modules & Block Design Simulation Images
 - `scripts/` → LUT generation Python scripts
-- `matlab/` → MATLAB verification testbenches
+- `matlab/` → MATLAB code for QPSK I& Q samples Generation for single sps
 - `docs/` → Design documentation & images
 
 ---
